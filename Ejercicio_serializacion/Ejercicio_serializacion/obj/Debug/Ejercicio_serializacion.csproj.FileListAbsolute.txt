@@ -1,0 +1,7 @@
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\bin\Debug\Ejercicio_serializacion.exe.config
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\bin\Debug\Ejercicio_serializacion.exe
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\bin\Debug\Ejercicio_serializacion.pdb
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\obj\Debug\Ejercicio_serializacion.csprojAssemblyReference.cache
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\obj\Debug\Ejercicio_serializacion.csproj.CoreCompileInputs.cache
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\obj\Debug\Ejercicio_serializacion.exe
+C:\Users\kikil\Documents\Universidad\Programación orientada a objetos\Clases\Ejemplos\Clase 9\ejercicio-serializacion-mabinder96\Ejercicio_serializacion\Ejercicio_serializacion\obj\Debug\Ejercicio_serializacion.pdb
